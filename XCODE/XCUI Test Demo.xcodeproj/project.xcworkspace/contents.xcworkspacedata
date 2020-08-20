@@ -2,42 +2,8 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/jules/Documents/Xcode projects/XCUI Test Demo/XCUI Test Demo/Museo Sans">
+      location = "group:../XCUI Test Demo/logoSmall.png">
    </FileRef>
-   <FileRef
-      location = "group:MuseoSans_500_Italic.otf">
-   </FileRef>
-   <FileRef
-      location = "group:MuseoSans_500.otf">
-   </FileRef>
-   <FileRef
-      location = "group:MuseoSans_700.otf">
-   </FileRef>
-   <FileRef
-      location = "group:MuseoSans_900.otf">
-   </FileRef>
-   <FileRef
-      location = "group:MuseoSans-100.otf">
-   </FileRef>
-   <FileRef
-      location = "group:MuseoSans-100Italic.otf">
-   </FileRef>
-   <FileRef
-      location = "group:MuseoSans-300.otf">
-   </FileRef>
-   <FileRef
-      location = "group:MuseoSans-300Italic.otf">
-   </FileRef>
-   <FileRef
-      location = "group:MuseoSans-700Italic.otf">
-   </FileRef>
-   <FileRef
-      location = "group:MuseoSans-900Italic.otf">
-   </FileRef>
-   <Group
-      location = "container:"
-      name = "New Group">
-   </Group>
    <FileRef
       location = "self:">
    </FileRef>

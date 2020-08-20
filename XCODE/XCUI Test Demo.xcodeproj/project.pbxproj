@@ -15,8 +15,6 @@
 		848A7A2624ED44360097D992 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A2424ED44360097D992 /* LaunchScreen.storyboard */; };
 		848A7A3124ED44360097D992 /* XCUI_Test_DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848A7A3024ED44360097D992 /* XCUI_Test_DemoTests.swift */; };
 		848A7A3C24ED44370097D992 /* XCUI_Test_DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848A7A3B24ED44370097D992 /* XCUI_Test_DemoUITests.swift */; };
-		848A7A4D24ED44DA0097D992 /* 030101_LOGO_Sauce-Labs_Badge_Red_RGB-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A4A24ED44DA0097D992 /* 030101_LOGO_Sauce-Labs_Badge_Red_RGB-01.png */; };
-		848A7A4E24ED44DA0097D992 /* qa - manual bot no text@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A4B24ED44DA0097D992 /* qa - manual bot no text@3x.png */; };
 		848A7A7324ED69EA0097D992 /* MuseoSans-100.otf in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A6924ED69E90097D992 /* MuseoSans-100.otf */; };
 		848A7A7424ED69EA0097D992 /* MuseoSans-100Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A6A24ED69EA0097D992 /* MuseoSans-100Italic.otf */; };
 		848A7A7524ED69EA0097D992 /* MuseoSans-700Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A6B24ED69EA0097D992 /* MuseoSans-700Italic.otf */; };
@@ -27,7 +25,9 @@
 		848A7A7A24ED69EA0097D992 /* MuseoSans_500.otf in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A7024ED69EA0097D992 /* MuseoSans_500.otf */; };
 		848A7A7B24ED69EA0097D992 /* MuseoSans_900.otf in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A7124ED69EA0097D992 /* MuseoSans_900.otf */; };
 		848A7A7C24ED69EA0097D992 /* MuseoSans-300Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A7224ED69EA0097D992 /* MuseoSans-300Italic.otf */; };
-		848A7A7F24ED6B1F0097D992 /* output-onlinepngtools.png in Resources */ = {isa = PBXBuildFile; fileRef = 848A7A7E24ED6B1F0097D992 /* output-onlinepngtools.png */; };
+		849A251D24EEB1B600CF5AD4 /* bot.png in Resources */ = {isa = PBXBuildFile; fileRef = 849A251B24EEB1B600CF5AD4 /* bot.png */; };
+		849A251E24EEB1B600CF5AD4 /* logosmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 849A251C24EEB1B600CF5AD4 /* logosmall.png */; };
+		849A252024EEB21300CF5AD4 /* logolarge.png in Resources */ = {isa = PBXBuildFile; fileRef = 849A251F24EEB21300CF5AD4 /* logolarge.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,8 +62,6 @@
 		848A7A3724ED44370097D992 /* XCUI Test DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "XCUI Test DemoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		848A7A3B24ED44370097D992 /* XCUI_Test_DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCUI_Test_DemoUITests.swift; sourceTree = "<group>"; };
 		848A7A3D24ED44370097D992 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		848A7A4A24ED44DA0097D992 /* 030101_LOGO_Sauce-Labs_Badge_Red_RGB-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "030101_LOGO_Sauce-Labs_Badge_Red_RGB-01.png"; path = "../../../../Downloads/030101_LOGO_Sauce-Labs_Badge_Red_RGB-01.png"; sourceTree = "<group>"; };
-		848A7A4B24ED44DA0097D992 /* qa - manual bot no text@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "qa - manual bot no text@3x.png"; path = "../../../../Downloads/qa - manual bot no text@3x.png"; sourceTree = "<group>"; };
 		848A7A6924ED69E90097D992 /* MuseoSans-100.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MuseoSans-100.otf"; sourceTree = "<group>"; };
 		848A7A6A24ED69EA0097D992 /* MuseoSans-100Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MuseoSans-100Italic.otf"; sourceTree = "<group>"; };
 		848A7A6B24ED69EA0097D992 /* MuseoSans-700Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MuseoSans-700Italic.otf"; sourceTree = "<group>"; };
@@ -74,7 +72,9 @@
 		848A7A7024ED69EA0097D992 /* MuseoSans_500.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MuseoSans_500.otf; sourceTree = "<group>"; };
 		848A7A7124ED69EA0097D992 /* MuseoSans_900.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MuseoSans_900.otf; sourceTree = "<group>"; };
 		848A7A7224ED69EA0097D992 /* MuseoSans-300Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MuseoSans-300Italic.otf"; sourceTree = "<group>"; };
-		848A7A7E24ED6B1F0097D992 /* output-onlinepngtools.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "output-onlinepngtools.png"; sourceTree = "<group>"; };
+		849A251B24EEB1B600CF5AD4 /* bot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bot.png; path = "../../ANDROID_STUDIO/XCUITestingDemo/app/src/main/res/drawable-xxhdpi/bot.png"; sourceTree = "<group>"; };
+		849A251C24EEB1B600CF5AD4 /* logosmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logosmall.png; path = ../../ANDROID_STUDIO/XCUITestingDemo/app/src/main/res/drawable/logosmall.png; sourceTree = "<group>"; };
+		849A251F24EEB21300CF5AD4 /* logolarge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logolarge.png; path = ../../ANDROID_STUDIO/XCUITestingDemo/app/src/main/res/drawable/logolarge.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,10 +130,10 @@
 				848A7A1B24ED44360097D992 /* SceneDelegate.swift */,
 				848A7A1D24ED44360097D992 /* ViewController.swift */,
 				848A7A1F24ED44360097D992 /* Main.storyboard */,
-				848A7A4A24ED44DA0097D992 /* 030101_LOGO_Sauce-Labs_Badge_Red_RGB-01.png */,
-				848A7A7E24ED6B1F0097D992 /* output-onlinepngtools.png */,
-				848A7A4B24ED44DA0097D992 /* qa - manual bot no text@3x.png */,
+				849A251F24EEB21300CF5AD4 /* logolarge.png */,
 				848A7A2224ED44360097D992 /* Assets.xcassets */,
+				849A251B24EEB1B600CF5AD4 /* bot.png */,
+				849A251C24EEB1B600CF5AD4 /* logosmall.png */,
 				848A7A2424ED44360097D992 /* LaunchScreen.storyboard */,
 				848A7A2724ED44360097D992 /* Info.plist */,
 			);
@@ -279,18 +279,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				848A7A2624ED44360097D992 /* LaunchScreen.storyboard in Resources */,
-				848A7A4E24ED44DA0097D992 /* qa - manual bot no text@3x.png in Resources */,
 				848A7A7C24ED69EA0097D992 /* MuseoSans-300Italic.otf in Resources */,
 				848A7A7924ED69EA0097D992 /* MuseoSans-300.otf in Resources */,
 				848A7A7824ED69EA0097D992 /* MuseoSans_700.otf in Resources */,
-				848A7A7F24ED6B1F0097D992 /* output-onlinepngtools.png in Resources */,
 				848A7A7724ED69EA0097D992 /* MuseoSans-900Italic.otf in Resources */,
 				848A7A7324ED69EA0097D992 /* MuseoSans-100.otf in Resources */,
 				848A7A2324ED44360097D992 /* Assets.xcassets in Resources */,
 				848A7A2124ED44360097D992 /* Main.storyboard in Resources */,
 				848A7A7624ED69EA0097D992 /* MuseoSans_500_Italic.otf in Resources */,
-				848A7A4D24ED44DA0097D992 /* 030101_LOGO_Sauce-Labs_Badge_Red_RGB-01.png in Resources */,
+				849A251E24EEB1B600CF5AD4 /* logosmall.png in Resources */,
+				849A251D24EEB1B600CF5AD4 /* bot.png in Resources */,
 				848A7A7B24ED69EA0097D992 /* MuseoSans_900.otf in Resources */,
+				849A252024EEB21300CF5AD4 /* logolarge.png in Resources */,
 				848A7A7A24ED69EA0097D992 /* MuseoSans_500.otf in Resources */,
 				848A7A7524ED69EA0097D992 /* MuseoSans-700Italic.otf in Resources */,
 				848A7A7424ED69EA0097D992 /* MuseoSans-100Italic.otf in Resources */,

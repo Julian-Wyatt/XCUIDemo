@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XCUI TestingDemo</string>
+    <string name="sauce">Sauce</string>
+    <string name="labs" />
+    <string name="hello_there">Hello there...</string>
+    <string name="please_enter_your_name_below">Please enter your name below</string>
+</resources>
